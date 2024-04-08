@@ -1,0 +1,6 @@
+---
+ root_password: Dqwewie@deded123
+ admin_user: admin12
+ admin_password: Admin@12345
+ db_name: ansible_db
+ password_validation_policy: 1
